@@ -1,0 +1,19 @@
+.highlight {
+    float: left;
+    text-transform: uppercase;
+    color: #666;
+    width: 98%;
+    margin-bottom: 4%;
+    padding: 1%;
+    font-size: 20px;
+    border-bottom: 2px solid #eb2969
+}
+
+.rightimgcaption {
+    width: 98%;
+    font-size: 14px;
+    line-height: 23px;
+    font-style: italic;
+    text-align: left;
+    padding: 2% 1%
+}
